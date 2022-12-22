@@ -1,3 +1,4 @@
+aaa
 ach
 aj
 albo
@@ -28,6 +29,8 @@ dzisiaj
 gdyby
 gdzie
 go
+hej
+ho
 ich
 ile
 im
@@ -54,6 +57,7 @@ kiedy
 kierunku
 kto
 ku
+la
 lub
 ma
 mają
@@ -195,6 +199,7 @@ który
 których
 którym
 którzy
+la
 lat
 lecz
 mimo
