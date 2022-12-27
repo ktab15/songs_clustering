@@ -1,5 +1,8 @@
+a
+aa
 aaa
 ach
+ah
 aj
 albo
 bardzo
@@ -58,11 +61,16 @@ kierunku
 kto
 ku
 la
+lalala
+lalalala
+lalalalala
 lub
 ma
 mają
 mam
 mi
+mmm
+mmmm
 mną
 mnie
 moi
@@ -202,8 +210,10 @@ którzy
 la
 lat
 lecz
+mieć
 mimo
 między
+mmm
 mogą
 moim
 możliwe
@@ -238,6 +248,7 @@ również
 sobie
 sobą
 sposób
+swój
 swoje
 ta
 taka
@@ -256,7 +267,12 @@ twym
 tych
 tylko
 tym
+yeah
 u
+uh
+uu
+uuu
+uuuuu
 w
 według
 wiele
@@ -270,7 +286,8 @@ właśnie
 z
 za
 zapewne
-zeznowu
+ze
+znowu
 znów
 został
 żadna
