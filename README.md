@@ -1,21 +1,20 @@
 # About
-This is a project for Data Science Pro Bootcamp doing in Python.
+This is a project for Data Science Pro Bootcamp.
 
-I work on song lyrics from 2 sources: 
+I took song lyrics from 2 sources: 
 
   * https://github.com/wdw21/songbook
 
-453 xml files with songs mainly in Polish, all these files come from the 21WDW (scouts group) songbook written over the years by various guitarists.
+     453 xml files with songs mainly in Polish, all these files come from the 21WDW (scouts group) songbook written over the years by various guitarists.
 
   * https://github.com/qamil95/spiewnik
 
-1006 latex files with songs mainly in Polish come from Cracow's songbook of "around the mountains" songs
+     1006 latex files with songs mainly in Polish come from Cracow's songbook of "around the mountains" songs
 
-I extract interesting data from .xml and .tex files.
-I work with the text, clean it, remove stopwords, do stemming, etc. 
-Then I pull out some statistics. I remove duplicates. 
-
-I'm trying to combine into clusters.
+I extracted interesting data from .xml and .tex files.
+I worked on the text, cleaned it, removed stopwords, did stemming, etc. 
+I presented statistics. I removed duplicates. 
+I combined them into clusters.
 
 
 # Repository structure
